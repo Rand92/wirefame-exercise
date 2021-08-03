@@ -1,1 +1,2 @@
 # wirefame-exercise
+today we have Demonstrated understanding of fundamental CSS layout principles including block, inline, normal, relative, absolute, float, and fixed, as measured by successful completion of the daily code assignment and on a quiz administered in Canvas
