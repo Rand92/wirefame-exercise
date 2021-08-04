@@ -2,6 +2,7 @@ header {
     padding: 10px; 
     background-color: #944a3f;
     color: white;
+    /* its better to use display: flex: ;  */
 }
 ul  {
     margin-bottom: 10px;
