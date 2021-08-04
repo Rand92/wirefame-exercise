@@ -7,8 +7,8 @@ header {
     /* its better to use display: flex: ;  */
 }
 ul  {
-    margin-bottom: 10px;
     justify-content: center;
+    margin-left: 90px;
     
 }
 li { display: inline;
@@ -18,18 +18,21 @@ li { display: inline;
   margin-inline-end: 30px ;
   vertical-align: middle 
    }
-
 section{
-    margin: 50px;
+    margin-left: 150px;
+    margin-top: 20px;
 }
 nav{
-    margin: 50px;
+    margin-left: 150px;
+    margin-top: 20px;
 }
 nav img {
     padding-inline-end: 25px ;}
 
 
-div {margin: 50px;
+div {
+    margin-left: 150px;
+    margin-top: 20px;
     width: 960px;
     height: 400px;
    
